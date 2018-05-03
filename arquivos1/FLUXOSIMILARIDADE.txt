@@ -1,0 +1,7 @@
+Fluxo:
+
+1- Classe Controle(main): inicia o programa e instancia Parametro com o caminho do arquivo texto de parametro;
+2- Classe Parametro: realiza leitura de um arquivo .txt e captura um Caminho e as Extensões de arquivos
+3- Classe Controle: recebe de Parametro as pastas encontradas no arquivo de parametro e joga para Pasta
+4- Classe Pasta: busca dentro das pastas recebidas os arquivos e armazena os caminhos em uma lista
+5- 

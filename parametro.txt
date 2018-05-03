@@ -1,0 +1,3 @@
+C:\Users\VStudio\Desktop\Exportar\Similaridade\arquivos1;.txt,.docx
+C:\Users\VStudio\Desktop\Exportar\Similaridade\arquivos2;.pdf
+C:\Users\VStudio\Desktop\Exportar\Similaridade\arquivos3;.java
