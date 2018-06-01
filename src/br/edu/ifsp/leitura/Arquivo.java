@@ -62,5 +62,10 @@ public abstract class Arquivo {
 		return sanear;
 	}
 	
+	public String getNome()
+	{
+		return this.nome;
+	}
+	
 	
 }
